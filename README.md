@@ -37,11 +37,6 @@ Email Me 👉 ✉️ **anshulregar06@gmail.com** For Collaboration/Project or An
 
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=AnshulRegarDev&limit=5&theme=dark&combine_all_yearly_contributions=true)
-
-## 📈 Contribution Graph
-
-[![Anshul's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=AnshulRegarDev&theme=tokyo-night)](https://github.com/ashutosh00710/github-readme-activity-graph)
-
 ---
 [![](https://komarev.com/ghpvc/?username=AnshulRegarDev&icon=0&color=0)](https://visitcount.itsvg.in)
 
